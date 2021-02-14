@@ -1,3 +1,5 @@
+# Network Attack detector
+> detail is in the report.pdf
 ## train model
 > python train.py <folderpath> <save_model_path>
 
